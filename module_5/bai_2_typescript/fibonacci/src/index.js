@@ -20,7 +20,8 @@ function isFibonacci(num) {
 var sum = 0;
 console.log("10 so dau tien trong day fibonacci");
 for (var i = 0; i < 10; i++) {
-    console.log(isFibonacci(i) + " ");
+    process.stdout.write(isFibonacci(i) + " ");
     sum += isFibonacci(i);
 }
+console.log("")
 console.log("Tong 10 so fibonacci dau tien la:" + sum);

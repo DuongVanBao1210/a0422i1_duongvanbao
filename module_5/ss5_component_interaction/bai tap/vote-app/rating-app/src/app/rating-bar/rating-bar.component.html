@@ -1,0 +1,9 @@
+<h1>Rating Bar</h1>
+<h4><span>Number active: </span>{{numberActive}}</h4>
+<br>
+  <div class="float-right" *ngFor="let number of numberArray">
+    <button *ngIf="number <= numberHover" class="btn btn-success p-3" (click)="pickNumber(number)"
+            (mouseenter)="numberHover = number" (mouseout)="numberHover = numberActive">{{number}}</button>
+    <button *ngIf="number > numberHover" class="btn btn-light p-3"
+            (mouseenter)="numberHover = number" (mouseout)="numberHover = numberActive">{{number}}</button>
+  </div>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1c8c346-add3-4c17-8cd5-4968fa3b0040" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ss4_component_template/bai tap/angular-hackernews-app/src/app/article/ArticlDAO.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2_type-script/bai tap/fibonacci/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2_type-script/bai tap/fibonacci/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2_type-script/bai tap/fibonacci/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2_type-script/bai tap/fibonacci/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2_type-script/bai tap/fibonacci/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2_type-script/bai tap/fibonacci/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2MJQ0UcELj5eYZLI3W2gk6CNV8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0422I1\module_5\ss5_component_interaction\bai tap\countdown-app\angular-countdown-timer-app\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1c8c346-add3-4c17-8cd5-4968fa3b0040" name="Default Changelist" comment="" />
+      <created>1677482982632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677482982632</updated>
+      <workItem from="1677482983774" duration="906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1677483532469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1677483532469" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1677483276901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1677483276901" />
+  </component>
+</project>
